@@ -16,7 +16,8 @@ ChatGPT：
 |   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Título  | Crie 10 headlines para nomes de artigos sobre o assunto HTML, CSS e JavaScript;                                                                                                                                                                                                 |
-| conteúdo | Faça um texto para ebook, com foco em HTML, CSS e JavaScript para iniciantes;
+| Conteúdo | Faça um texto para ebook, com foco em HTML, CSS e JavaScript para iniciantes;
+
 {REGRAS} Explique sempre de uma maneira simples; 
 <br>
 Deixe o texto enxuto;
